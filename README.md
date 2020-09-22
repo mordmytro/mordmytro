@@ -4,9 +4,9 @@
 
 **Do you wanna develop an app?**
 
--   :mortar_board: Student of Applied mathematics in Odessa I.I.Mechnikov National University (4th grade)
--   :test_tube: Working in a startup, using ML, Python and Cuda
--   :moneybag: A big fan of blockchain and cryptocurrencies
+-   :mortar_board: 4th grade student of Odessa I.I.Mechnikov National University (Applied mathematics department)
+-   :test_tube: Working in a couple of startups, using Deeplearning, Python, Solidity, Cuda, OpenCV and others
+-   :moneybag: Loves to improve my developer skills in ML and CV
 
 [![Telegram](https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dmor)
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:idima.mor@gmail.com)
@@ -14,7 +14,7 @@
 **Languages I have used**
 
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
-![Solidity](https://img.shields.io/badge/-Solidity-000000?style=flat&logo=solidity)
+![Solidity](https://img.shields.io/badge/-solidity-000000?style=flat&logo=ethereum)
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=C%2B%2B&logoColor=00599C)
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=Java)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
