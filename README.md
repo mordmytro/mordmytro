@@ -4,23 +4,20 @@
 
 **Do you wanna develop an app?**
 
--   :mortar_board: Applied mathematics student in Odessa I.I.Mechnikov National University (4th grade)
+-   :mortar_board: Student of Applied mathematics in Odessa I.I.Mechnikov National University (4th grade)
 -   :test_tube: Working in a startup, using ML, Python and Cuda
 -   :moneybag: A big fan of blockchain and cryptocurrencies
 
-[![Telegram](https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/LeaveMyYard)
-[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zhukovpavel2001@gmail.com)
-<a href="http://LeaveMyYard.github.io/donate/bitcoin.html"><img src="https://img.shields.io/badge/-BITCOIN-FCD12A?style=for-the-badge&logo=bitcoin&logoColor=white)"></a>
-<a href="http://LeaveMyYard.github.io/donate/ethereum.html"><img src="https://img.shields.io/badge/-ETHEREUM-551A8B?style=for-the-badge&logo=ethereum&logoColor=white)"></a>
+[![Telegram](https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dmor)
+[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:idima.mor@gmail.com)
 
 **Languages I have used**
 
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
-![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=C%2B%2B&logoColor=00599C)
 ![Solidity](https://img.shields.io/badge/-Solidity-000000?style=flat&logo=solidity)
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
+![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=C%2B%2B&logoColor=00599C)
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=Java)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL)
 ![LaTeX](https://img.shields.io/badge/-LATEX-000000?style=flat&logo=LaTeX)
 
@@ -47,9 +44,9 @@
 
 **I am a codewars player, check my stats**
 
-![Codewars stats](https://www.codewars.com/users/LeaveMyYard/badges/large)
+![Codewars stats](https://www.codewars.com/users/morozdima/badges/large)
 
 **Some stats**
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=LeaveMyYard&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeaveMyYard&hide=java&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Github stats](https://github-readme-stats.vercel.app/api?username=morozdima&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=morozdima&hide=java&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
