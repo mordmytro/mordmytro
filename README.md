@@ -1,5 +1,5 @@
 <div align="center">
-	<img src = "https://media.giphy.com/media/KxtZLJlAAwNGUVH2eV/giphy.gif">
+	<img src = "https://giphy.com/gifs/umbrellaacad-umbrella-academy-the-tua-cJHcuSUFIrymctvBMI/links">
 </div>
 
 **Do you wanna develop an app?**
@@ -25,22 +25,17 @@
 
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=FFFFFF)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-000000?style=flat&logo=tensorflow)
-![Cuda](https://img.shields.io/badge/-Cuda-000000?style=flat&logo=nvidia)
 ![NumPy](https://img.shields.io/badge/-Numpy-000000?style=flat&logo=python)
 ![Pandas](https://img.shields.io/badge/-Pandas-000000?style=flat&logo=pandas)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-000000?style=flat&logo=python)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-000000?style=flat&logo=tensorflow)
 ![Anaconda](https://img.shields.io/badge/-Anaconda-000000?style=flat&logo=anaconda)
 ![Qt](https://img.shields.io/badge/-Qt-000000?style=flat&logo=qt)
 ![PyQt5](https://img.shields.io/badge/-PyQt5-000000?style=flat&logo=qt)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-000000?style=flat&logo=python)
-![Unreal Engine 4](https://img.shields.io/badge/-UnrealEngine4-000000?style=flat&logo=C%2B%2B&)
-![jQuery](https://img.shields.io/badge/-jQuery-000000?style=flat&logo=jQuery&logoColor=0769AD)
-![BootStrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap)
-![SQLite3](https://img.shields.io/badge/-SQLite3-000000?style=flat&logo=sqlite)
-![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql&logoColor=FFFFFF)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-000000?style=flat&logo=C%2B%2B&)
+![Cuda](https://img.shields.io/badge/-Cuda-000000?style=flat&logo=nvidia)
 ![Android Studio](https://img.shields.io/badge/-AndroidStudio-000000?style=flat&logo=android)
+![SQLite3](https://img.shields.io/badge/-SQLite3-000000?style=flat&logo=sqlite)
 
 **I am a codewars player, check my stats**
 
