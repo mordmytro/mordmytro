@@ -1,5 +1,5 @@
 <div align="center">
-	<img src = "https://giphy.com/gifs/umbrellaacad-umbrella-academy-the-tua-cJHcuSUFIrymctvBMI/links">
+	<img src = "https://media.giphy.com/media/cJHcuSUFIrymctvBMI/giphy.gif">
 </div>
 
 **Do you wanna develop an app?**
