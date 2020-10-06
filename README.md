@@ -37,11 +37,11 @@
 ![Android Studio](https://img.shields.io/badge/-AndroidStudio-000000?style=flat&logo=android)
 ![SQLite3](https://img.shields.io/badge/-SQLite3-000000?style=flat&logo=sqlite)
 
-**I am a codewars player, check my stats**
+**My hobby is to play on codewars**
 
 ![Codewars stats](https://www.codewars.com/users/morozdima/badges/large)
 
-**Some stats**
+**My stats**
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=morozdima&count_private=true&show_icons=true&theme=synthwave)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=morozdima&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
