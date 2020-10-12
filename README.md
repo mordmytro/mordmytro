@@ -43,5 +43,5 @@
 
 **My stats**
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=morozdima&count_private=true&show_icons=true&theme=synthwave)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=morozdima&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+![Github stats](https://github-readme-stats.vercel.app/api?username=morozdima&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=morozdima&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
