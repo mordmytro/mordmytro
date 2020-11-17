@@ -25,7 +25,7 @@
 
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
-![NumPy](https://img.shields.io/badge/-Numpy-000000?style=flat&logo=python)
+![NumPy](https://img.shields.io/badge/-Numpy-000000?style=flat&logo=numpy)
 ![Pandas](https://img.shields.io/badge/-Pandas-000000?style=flat&logo=pandas)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-000000?style=flat&logo=python)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000000?style=flat&logo=tensorflow)
