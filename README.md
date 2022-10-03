@@ -10,7 +10,7 @@
 [![Telegram](https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/d_mor)
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:idima.mor@gmail.com)
 
-**My instruments**
+**My main instruments**
 
 ![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python&logoColor=FFFFFF)
 ![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=git&logoColor=FFFFFF)
@@ -46,4 +46,4 @@
 
 **My stats**
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=morozdima&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true&show_icons=true&theme=tokyonight)
+![stats](https://github-readme-stats.vercel.app/api?username=morozdima&show_icons=true&count_private=true&hide=contribs,prs&custom_title=My%20GitHub%20Stats&theme=tokyonight)
