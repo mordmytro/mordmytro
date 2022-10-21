@@ -8,7 +8,7 @@
 **Contact me**
 
 [![Telegram](https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/d_mor)
-[![Website](https://img.shields.io/badge/-WEBSITE-fcba03?style=for-the-badge&logo=google-chrome&logoColor=black)](https://morozdima.github.io/)
+[![Website](https://img.shields.io/badge/-WEBSITE-fcba03?style=for-the-badge&logo=google-chrome&logoColor=black)](https://mordmytro.github.io/)
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:idima.mor@gmail.com)
 
 **My main instruments**
@@ -47,4 +47,4 @@
 
 **My stats**
 
-![stats](https://github-readme-stats.vercel.app/api?username=morozdima&show_icons=true&count_private=true&hide=contribs,prs&custom_title=My%20GitHub%20Stats&theme=tokyonight)
+![stats](https://github-readme-stats.vercel.app/api?username=mordmytro&show_icons=true&count_private=true&hide=contribs,prs&custom_title=My%20GitHub%20Stats&theme=tokyonight)
